@@ -147,4 +147,4 @@ The system can accurately differentiate between birds and drones, making it usef
 🙌 Author
 
 Dharminder Singh Virk
-Made with ❤️ using Deep Learning & Computer Vision
+Made with ❤️ using Deep Learning 
